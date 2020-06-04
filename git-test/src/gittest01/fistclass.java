@@ -10,4 +10,11 @@ public class fistclass {
         System.out.println("Hello！Git");
 
     }
+
+    public void test(){
+        int i = 0;
+
+        i += 10;
+
+    }
 }
